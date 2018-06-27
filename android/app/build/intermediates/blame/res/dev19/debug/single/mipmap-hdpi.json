@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/mipmap-hdpi/dev_icon.png",
+        "source": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/src/main/res/mipmap-hdpi/dev_icon.png"
+    }
+]

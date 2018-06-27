@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/success/.android/build-cache/9e165ef407de6400f9e39526d7a2582f88fe94cf/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    }
+]

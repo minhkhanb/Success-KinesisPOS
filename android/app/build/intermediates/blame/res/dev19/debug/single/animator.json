@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/animator/card_flip_left_in.xml"
+    }
+]

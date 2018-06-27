@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/Users/success/.android/build-cache/d97f3b1a2dd304d603290e6fa5d22ad20f430465/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/Users/success/.android/build-cache/d97f3b1a2dd304d603290e6fa5d22ad20f430465/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/Users/success/.android/build-cache/d97f3b1a2dd304d603290e6fa5d22ad20f430465/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/Users/success/.android/build-cache/d97f3b1a2dd304d603290e6fa5d22ad20f430465/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_enter.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_exit.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/Users/success/.android/build-cache/65e9592bc5f1203e0eed0afc9bed0bd0ade60b84/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/Users/success/.android/build-cache/65e9592bc5f1203e0eed0afc9bed0bd0ade60b84/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/success/.android/build-cache/32460696bc9b1e6c0507eff9a6ce3a37215d34cc/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

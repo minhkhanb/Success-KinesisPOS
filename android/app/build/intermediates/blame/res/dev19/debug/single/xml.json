@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/xml/preferences.xml",
+        "source": "/Users/success/.android/build-cache/a1cca6dfb15a433a7630786e9df060a9016df01e/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/xml/global_tracker.xml",
+        "source": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/generated/res/google-services/dev19/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_classic.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/xml/stub_classic.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/xml/stub_material.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/xml/stub_material.xml"
+    },
+    {
+        "merged": "/Users/success/Desktop/KinesisPOS/Git/Kinesis-POS-Mobile/android/app/build/intermediates/res/merged/dev19/debug/xml/provider_paths.xml",
+        "source": "/Users/success/.android/build-cache/4a586ed4ae63466989fae62ecb9a93193c4240d1/output/res/xml/provider_paths.xml"
+    }
+]
